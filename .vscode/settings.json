@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/d37ce319-6394-417f-87f4-5d77da9bd4d5/resourceGroups/ZaliczenieRG/providers/Microsoft.Web/sites/ZaliczenieMaciej",
+    "appService.deploySubpath": "."
+}
